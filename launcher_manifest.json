@@ -1,11 +1,11 @@
 {
-    "version": "v1.0.1",
+    "version": "v1.0.2",
     "files": [
         {
             "type": "classpath",
             "path": "launcher.jar",
             "hash":"d0e2b65c039056dedb4427f183003ea0cbf5c894c72a0f55b47d13166a1bcf08",
-            "url": "https://raw.githubusercontent.com/Blackilykat/BootstrapTemporaryTest/refs/heads/master/launcher-v1.0.0.jar"
+            "url": "https://raw.githubusercontent.com/Blackilykat/BootstrapTemporaryTest/refs/heads/master/launcher-v1.0.1.jar"
         }
     ],
     "main_class": "org.respouted.Main",
